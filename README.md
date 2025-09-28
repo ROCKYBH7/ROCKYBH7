@@ -33,7 +33,7 @@
 - Showcased **workflow automation, real-time query handling**, and test scenarios.  
 - [Repository](https://github.com/ROCKYBH7/langgraph-customer-support)
 
-#### 🚗 Used Car Price Prediction
+#### 🚗 Used Car Price Prediction ( In Progress )
 - Implemented **regression models** (Linear Regression, XGBoost) for predicting car prices.  
 - Handled **preprocessing, outlier detection, feature encoding**, and evaluated with **RMSE & R² metrics**.  
 
