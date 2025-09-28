@@ -9,48 +9,62 @@
 ### 👨‍💻 About Me
 
 - 🎓 Bachelor of Science in Information Technology  
-- 📍 Based in Madurai, India | Open to Relocate  
-- 🧠 Skilled in **AI, Machine Learning, Data Science, and Testing Automation**  
-- ⚙️ Building solutions with **LangGraph, Generative AI, and PySpark**  
-- 🏁 Inspired by Formula 1 technology — exploring **performance data modeling and analytics**  
+- 📍 Based in Madurai, India and Chennai, India | Open to Relocate  
+- 🧠 Skilled in **AI, Machine Learning, Data Science, and Test Automation**  
+- ⚙️ Building solutions with **LangGraph, Generative AI, PySpark, and Streamlit**  
+- 🏁 Inspired by Formula 1 technology — exploring **performance data modeling and predictive analytics**  
 
 ---
 
 ### 📂 Featured Projects
 
-- 🔍 **Fraud Detection using Machine Learning**  
-  Built supervised ML models (Scikit-learn) to detect fraudulent financial transactions. Focused on feature engineering, model tuning, and evaluation using F1-score & AUC.  
+#### 🔍 Fraud Detection using Machine Learning
+- Built **supervised ML models** (Random Forest, XGBoost, Scikit-learn) to detect fraudulent financial transactions.  
+- Focused on **feature engineering, handling imbalanced data, model tuning**, and evaluation using **F1-score & AUC**.  
+- [Repository](https://github.com/ROCKYBH7/fraud-detection-app)
 
-- 🚗 **Used Car Price Prediction**  
-  Developed regression models (Linear Regression, XGBoost) for car price estimation. Implemented preprocessing (outlier handling, encoding, scaling) with evaluation metrics like RMSE.  
+#### 📱 SMS Spam Classifier
+- Developed a **Telecom Fraud Detection system** using **TF-IDF + Naive Bayes** with **~98% accuracy**.  
+- Includes **EDA, fraud trend visualization**, and **real-time prediction via Streamlit**.  
+- [Repository](https://github.com/ROCKYBH7/sms-spam-detector)
 
-- 🤖 **LangGraph Customer Support Agent**  
-  Designed an **11-stage AI workflow agent** with state persistence, escalation logic, and MCP server routing. Showcased workflow automation and customer query handling.  
+#### 🤖 LangGraph Customer Support Agent
+- Designed an **11-stage AI workflow agent** with **state persistence, escalation logic, and MCP server routing**.  
+- Showcased **workflow automation, real-time query handling**, and test scenarios.  
+- [Repository](https://github.com/ROCKYBH7/langgraph-customer-support)
+
+#### 🚗 Used Car Price Prediction
+- Implemented **regression models** (Linear Regression, XGBoost) for predicting car prices.  
+- Handled **preprocessing, outlier detection, feature encoding**, and evaluated with **RMSE & R² metrics**.  
+
+#### 📊 Fraud Detection EDA
+- Conducted **exploratory data analysis** on financial transaction data with **visualizations, correlation analysis, and feature insights**.  
+- [Repository](https://github.com/ROCKYBH7/Fraud_Detection_EDA)
 
 ---
 
-### 🌱 I’m Currently Advancing In
+### 🌱 Currently Learning & Exploring
 
-- **Machine Learning & AI**: Scikit-learn, PyTorch, TensorFlow, Hugging Face  
-- **Data Engineering**: SQL, PySpark, ETL pipelines, Feature Engineering  
-- **GenAI**: Prompt Engineering, LangChain, LangGraph, LLM Applications  
-- **SDET Skills**: Python automation, Testing frameworks, CI/CD pipelines  
-- **Cloud Tools**: IBM Cloud, Azure (basics), GitHub Actions  
+- **Machine Learning & AI:** Scikit-learn, PyTorch, TensorFlow, Hugging Face  
+- **Data Engineering:** SQL, PySpark, ETL pipelines, Feature Engineering  
+- **Generative AI:** Prompt Engineering, LangChain, LangGraph, LLM Applications  
+- **SDET Skills:** Python automation, testing frameworks, CI/CD pipelines  
+- **Cloud & Deployment:** IBM Cloud, Azure basics, GitHub Actions  
 
 ---
 
 ### 🤝 I’m Looking to Collaborate On
 
-- ML, AI, or Generative AI projects  
+- AI/ML or Generative AI projects  
 - Open-source Data Science challenges  
-- Formula 1-related analytics and performance modeling  
+- Formula 1-related performance analytics and predictive modeling  
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Contact Me
 
-- 📧 **balajirh.ds@gmail.com** (Professional)  
-- 📧 **balajirocky2005@gmail.com** (Personal)  
+- 📧 **Professional:** balajirh.ds@gmail.com  
+- 📧 **Personal:** balajirocky2005@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/balaji-r-h-a81107298)  
 - 🐙 [GitHub Projects](https://github.com/ROCKYBH7)  
 
@@ -58,8 +72,6 @@
 
 ### ⚡ Fun Fact  
 
-I bridge the gap between **technology and real-world applications** — from detecting fraud to predicting car prices, and even applying AI to **Formula 1 racing performance analytics**.  
+I bridge the gap between **technology and real-world applications** — from detecting fraud to predicting car prices, and even applying AI to **Formula 1 racing analytics**.  
 
----
-
-> “Every dataset hides a story – my mission is to tell it with code, models, and innovation.”  
+> “Every dataset hides a story — my mission is to tell it with code, models, and innovation.”
