@@ -1,77 +1,138 @@
-<h1 align="center">Hi there, I'm Balaji R H 👋</h1>
+<h1 align="center">Balaji R H 👋</h1>
 
 <p align="center">
-  🚀 AI/ML Engineer | 📊 Data Scientist | 🧪 SDET Trainee | 🏎️ Formula 1 Analytics Enthusiast
+  🚀 AI Engineer | ML Systems Builder | Generative AI Developer  
+</p>
+
+<p align="center">
+  Building scalable AI systems from data → model → production
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 About Me
 
-- 🎓 Bachelor of Science in Information Technology  
-- 📍 Based in Madurai, India and Chennai, India | Open to Relocate  
-- 🧠 Skilled in **AI, Machine Learning, Data Science, and Test Automation**  
-- ⚙️ Building solutions with **LangGraph, Generative AI, PySpark, and Streamlit**  
-- 🏁 Inspired by Formula 1 technology — exploring **performance data modeling and predictive analytics**  
-
----
-
-### 📂 Featured Projects
-
-#### 🔍 Fraud Detection using Machine Learning
-- Built **supervised ML models** (Random Forest, XGBoost, Scikit-learn) to detect fraudulent financial transactions.  
-- Focused on **feature engineering, handling imbalanced data, model tuning**, and evaluation using **F1-score & AUC**.  
-- [Repository](https://github.com/ROCKYBH7/fraud-detection-app)
-
-#### 📱 SMS Spam Classifier
-- Developed a **Telecom Fraud Detection system** using **TF-IDF + Naive Bayes** with **~98% accuracy**.  
-- Includes **EDA, fraud trend visualization**, and **real-time prediction via Streamlit**.  
-- [Repository](https://github.com/ROCKYBH7/sms-spam-detector)
-
-#### 🤖 LangGraph Customer Support Agent
-- Designed an **11-stage AI workflow agent** with **state persistence, escalation logic, and MCP server routing**.  
-- Showcased **workflow automation, real-time query handling**, and test scenarios.  
-- [Repository](https://github.com/ROCKYBH7/langgraph-customer-support)
-
-#### 🚗 Used Car Price Prediction ( In Progress )
-- Implemented **regression models** (Linear Regression, XGBoost) for predicting car prices.  
-- Handled **preprocessing, outlier detection, feature encoding**, and evaluated with **RMSE & R² metrics**.  
-
-#### 📊 Fraud Detection EDA
-- Conducted **exploratory data analysis** on financial transaction data with **visualizations, correlation analysis, and feature insights**.  
-- [Repository](https://github.com/ROCKYBH7/Fraud_Detection_EDA)
+- 🎓 B.Sc. Information Technology  
+- 📍 India (Madurai / Chennai) — Open to Relocation  
+- 💡 Focused on **AI Engineering, Machine Learning Systems, and Generative AI Applications**  
+- ⚙️ Experienced in building **end-to-end ML pipelines, APIs, and AI-driven solutions**  
+- 🏎️ Strong interest in **Formula 1 data analytics & performance modeling**  
 
 ---
 
-### 🌱 Currently Learning & Exploring
+## 🚀 What I Do
 
-- **Machine Learning & AI:** Scikit-learn, PyTorch, TensorFlow, Hugging Face  
-- **Data Engineering:** SQL, PySpark, ETL pipelines, Feature Engineering  
-- **Generative AI:** Prompt Engineering, LangChain, LangGraph, LLM Applications  
-- **SDET Skills:** Python automation, testing frameworks, CI/CD pipelines  
-- **Cloud & Deployment:** IBM Cloud, Azure basics, GitHub Actions  
-
----
-
-### 🤝 I’m Looking to Collaborate On
-
-- AI/ML or Generative AI projects  
-- Open-source Data Science challenges  
-- Formula 1-related performance analytics and predictive modeling  
+- Design and build **production-ready ML systems**
+- Develop **AI-powered applications using LLMs**
+- Convert **data science workflows into scalable APIs**
+- Work with **real-world datasets to solve business problems**
 
 ---
 
-### 📫 Contact Me
+## 📂 Featured Projects
 
-- 📧 **Professional:** balajirh.ds@gmail.com  
-- 📧 **Personal:** balajirocky2005@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/balaji-r-h-a81107298)  
-- 🐙 [GitHub Projects](https://github.com/ROCKYBH7)  
+### 🔥 Fraud Detection System (Production-Oriented ML)
+- Built an **end-to-end fraud detection pipeline** using **Random Forest, XGBoost**
+- Implemented:
+  - Data preprocessing & feature engineering  
+  - Handling imbalanced datasets  
+  - Model evaluation using **F1-score, ROC-AUC**
+- Designed for **real-world financial risk detection use cases**
+- 🔗 https://github.com/ROCKYBH7/fraud-detection-app  
 
 ---
 
-### ⚡ Fun Fact  
+### 🤖 AI Customer Support Agent (LangGraph Workflow System)
+- Developed a **multi-stage AI agent (11-step workflow)** using **LangGraph**
+- Features:
+  - Stateful conversation flow  
+  - Escalation handling logic  
+  - Tool/API integration (MCP routing)  
+- Demonstrates **real-time AI automation system design**
+- 🔗 https://github.com/ROCKYBH7/langgraph-customer-support  
 
-I bridge the gap between **technology and real-world applications** — from detecting fraud to predicting car prices, and even applying AI to **Formula 1 racing analytics**.  
+---
 
-> “Every dataset hides a story — my mission is to tell it with code, models, and innovation.”
+### 📩 SMS Spam Detection System (ML + Deployment)
+- Built a **text classification system** using **TF-IDF + Naive Bayes**
+- Achieved high accuracy with optimized preprocessing
+- Integrated with **Streamlit for real-time predictions**
+- Covers:
+  - NLP pipeline  
+  - Visualization & insights  
+- 🔗 https://github.com/ROCKYBH7/sms-spam-detector  
+
+---
+
+### 🚗 Used Car Price Prediction (ML Pipeline)
+- Developed regression models for **price prediction**
+- Includes:
+  - Data cleaning & feature engineering  
+  - Outlier handling  
+  - Model evaluation using **RMSE & R²**
+- Focused on **practical ML pipeline design**
+
+---
+
+### 📊 Fraud Detection EDA
+- Performed deep **exploratory data analysis**
+- Identified:
+  - Fraud patterns  
+  - Feature correlations  
+  - Business insights from transaction data  
+- 🔗 https://github.com/ROCKYBH7/Fraud_Detection_EDA  
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧠 AI / ML
+- Scikit-learn, XGBoost, TensorFlow, PyTorch  
+- NLP, Feature Engineering, Model Evaluation  
+
+### 🤖 Generative AI
+- LangChain, LangGraph  
+- LLM Applications, Prompt Engineering  
+
+### ⚙️ Backend & Systems
+- Python, FastAPI (API development)  
+- Modular architecture, pipeline design  
+
+### 📊 Data Engineering
+- SQL, PySpark  
+- Data pipelines, ETL workflows  
+
+### ☁️ Tools & Deployment
+- Git, GitHub Actions  
+- Streamlit, Docker (learning)  
+- Azure / IBM Cloud (basics)  
+
+---
+
+## 📈 Current Focus
+
+- Building **AI applications with LLMs (RAG, Agents)**
+- Improving **ML system design & deployment skills**
+- Transitioning into **production-grade AI engineering**
+
+---
+
+## 🤝 Open to Collaborate
+
+- AI / ML system development  
+- Generative AI applications  
+- Real-world problem-solving projects  
+
+---
+
+## 📫 Contact
+
+- 📧 balajirh.ds@gmail.com  
+- 💼 https://www.linkedin.com/in/balaji-r-h-a81107298  
+- 🐙 https://github.com/ROCKYBH7  
+
+---
+
+## ⚡ Positioning
+
+> I focus on building **AI systems that work in production** — not just models in notebooks.
