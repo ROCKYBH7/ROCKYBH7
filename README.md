@@ -1,138 +1,300 @@
-<h1 align="center">Balaji R H 👋</h1>
+<h1 align="center">Hi 👋, I'm Balaji R H</h1>
+
+<h3 align="center">
+AI Engineer | Machine Learning Engineer | Computer Vision Enthusiast | Generative AI Developer
+</h3>
 
 <p align="center">
-  🚀 AI Engineer | ML Systems Builder | Generative AI Developer  
+Building intelligent AI systems from <b>data → model → deployment → production</b>
 </p>
 
 <p align="center">
-  Building scalable AI systems from data → model → production
+  <a href="https://github.com/ROCKYBH7">
+    <img src="https://komarev.com/ghpvc/?username=ROCKYBH7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
 
-## 🧠 About Me
+# 🚀 About Me
 
-- 🎓 B.Sc. Information Technology  
-- 📍 India (Madurai / Chennai) — Open to Relocation  
-- 💡 Focused on **AI Engineering, Machine Learning Systems, and Generative AI Applications**  
-- ⚙️ Experienced in building **end-to-end ML pipelines, APIs, and AI-driven solutions**  
-- 🏎️ Strong interest in **Formula 1 data analytics & performance modeling**  
+I'm an AI Engineer passionate about building scalable, production-ready Artificial Intelligence systems that solve real-world problems.
 
----
+My interests span across Machine Learning, Deep Learning, Computer Vision, Large Language Models, and AI-powered applications.
 
-## 🚀 What I Do
-
-- Design and build **production-ready ML systems**
-- Develop **AI-powered applications using LLMs**
-- Convert **data science workflows into scalable APIs**
-- Work with **real-world datasets to solve business problems**
+Currently, I'm focused on designing end-to-end AI solutions—from data preprocessing and model development to deployment and production-ready APIs.
 
 ---
 
-## 📂 Featured Projects
+# 💡 What I Do
 
-### 🔥 Fraud Detection System (Production-Oriented ML)
-- Built an **end-to-end fraud detection pipeline** using **Random Forest, XGBoost**
-- Implemented:
-  - Data preprocessing & feature engineering  
-  - Handling imbalanced datasets  
-  - Model evaluation using **F1-score, ROC-AUC**
-- Designed for **real-world financial risk detection use cases**
-- 🔗 https://github.com/ROCKYBH7/fraud-detection-app  
+- 🤖 Build end-to-end AI & Machine Learning systems
+- 🧠 Develop Deep Learning and Computer Vision applications
+- 💬 Create LLM-powered applications using LangChain & LangGraph
+- ⚡ Design scalable AI APIs with FastAPI
+- 📊 Build data-driven solutions for real-world business problems
+- 🚀 Deploy AI models into production-ready environments
 
 ---
 
-### 🤖 AI Customer Support Agent (LangGraph Workflow System)
-- Developed a **multi-stage AI agent (11-step workflow)** using **LangGraph**
-- Features:
-  - Stateful conversation flow  
-  - Escalation handling logic  
-  - Tool/API integration (MCP routing)  
-- Demonstrates **real-time AI automation system design**
-- 🔗 https://github.com/ROCKYBH7/langgraph-customer-support  
+# 🛠️ Tech Stack
+
+### Programming Languages
+
+- Python
+- SQL
+
+### Artificial Intelligence & Machine Learning
+
+- Scikit-learn
+- XGBoost
+- TensorFlow
+- PyTorch
+
+### Computer Vision
+
+- OpenCV
+- CNNs
+- Transfer Learning
+- Image Classification
+- Object Detection
+- Biomedical Imaging
+
+### Generative AI
+
+- LangChain
+- LangGraph
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- MCP Workflows
+
+### Backend Development
+
+- FastAPI
+- REST APIs
+
+### Data Engineering
+
+- Pandas
+- NumPy
+- PySpark
+- ETL Pipelines
+
+### Deployment & Tools
+
+- Git
+- GitHub
+- GitHub Actions
+- Docker
+- Streamlit
+- Azure
+- IBM Cloud
 
 ---
 
-### 📩 SMS Spam Detection System (ML + Deployment)
-- Built a **text classification system** using **TF-IDF + Naive Bayes**
-- Achieved high accuracy with optimized preprocessing
-- Integrated with **Streamlit for real-time predictions**
-- Covers:
-  - NLP pipeline  
-  - Visualization & insights  
-- 🔗 https://github.com/ROCKYBH7/sms-spam-detector  
+# ⭐ Featured Projects
+
+## 🛡️ Fraud Detection System
+
+Production-oriented Machine Learning pipeline for detecting fraudulent financial transactions.
+
+### Highlights
+
+- End-to-end ML pipeline
+- Feature Engineering
+- Data Preprocessing
+- Imbalanced Dataset Handling
+- Random Forest
+- XGBoost
+- Model Optimization
+- ROC-AUC & F1 Evaluation
+- Production-ready inference
+
+🔗 Repository
+
+https://github.com/ROCKYBH7/fraud-detection-app
 
 ---
 
-### 🚗 Used Car Price Prediction (ML Pipeline)
-- Developed regression models for **price prediction**
-- Includes:
-  - Data cleaning & feature engineering  
-  - Outlier handling  
-  - Model evaluation using **RMSE & R²**
-- Focused on **practical ML pipeline design**
+## 🤖 AI Customer Support Agent
+
+Enterprise-inspired multi-agent AI workflow powered by LangGraph.
+
+### Highlights
+
+- 11-stage workflow architecture
+- Stateful conversations
+- Decision routing
+- Escalation handling
+- Tool integration
+- MCP workflow support
+- AI automation pipeline
+
+🔗 Repository
+
+https://github.com/ROCKYBH7/langgraph-customer-support
 
 ---
 
-### 📊 Fraud Detection EDA
-- Performed deep **exploratory data analysis**
-- Identified:
-  - Fraud patterns  
-  - Feature correlations  
-  - Business insights from transaction data  
-- 🔗 https://github.com/ROCKYBH7/Fraud_Detection_EDA  
+## 🧬 Brain MRI Tumor Classification
+
+Deep learning-based medical image classification system for automated brain tumor detection using MRI scans.
+
+### Highlights
+
+- Brain MRI preprocessing
+- Transfer Learning
+- Multi-class classification
+- Data augmentation
+- Grad-CAM visualization
+- Accuracy, Precision, Recall & F1 evaluation
+- Production-ready inference pipeline
+
+**Tech Stack**
+
+PyTorch • OpenCV • NumPy • Matplotlib • Scikit-learn
 
 ---
 
-## ⚙️ Tech Stack
+## 🔬 Blood Cell Detection & Classification
 
-### 🧠 AI / ML
-- Scikit-learn, XGBoost, TensorFlow, PyTorch  
-- NLP, Feature Engineering, Model Evaluation  
+Computer Vision system for automated blood cell detection and classification from microscopic blood smear images.
 
-### 🤖 Generative AI
-- LangChain, LangGraph  
-- LLM Applications, Prompt Engineering  
+### Highlights
 
-### ⚙️ Backend & Systems
-- Python, FastAPI (API development)  
-- Modular architecture, pipeline design  
+- Biomedical image preprocessing
+- Cell detection & classification
+- Bounding box prediction
+- Data augmentation
+- Model evaluation using Precision, Recall, F1 & mAP
+- Modular inference pipeline
 
-### 📊 Data Engineering
-- SQL, PySpark  
-- Data pipelines, ETL workflows  
+**Tech Stack**
 
-### ☁️ Tools & Deployment
-- Git, GitHub Actions  
-- Streamlit, Docker (learning)  
-- Azure / IBM Cloud (basics)  
+Python • PyTorch • YOLOv8 • OpenCV • NumPy
 
 ---
 
-## 📈 Current Focus
+## 📩 SMS Spam Detection
 
-- Building **AI applications with LLMs (RAG, Agents)**
-- Improving **ML system design & deployment skills**
-- Transitioning into **production-grade AI engineering**
+Machine Learning-based NLP application for spam message classification.
 
----
+### Highlights
 
-## 🤝 Open to Collaborate
+- TF-IDF Vectorization
+- Naive Bayes Classifier
+- Streamlit Deployment
+- Text preprocessing
+- Data visualization
+- Real-time prediction
 
-- AI / ML system development  
-- Generative AI applications  
-- Real-world problem-solving projects  
+🔗 Repository
 
----
-
-## 📫 Contact
-
-- 📧 balajirh.ds@gmail.com  
-- 💼 https://www.linkedin.com/in/balaji-r-h-a81107298  
-- 🐙 https://github.com/ROCKYBH7  
+https://github.com/ROCKYBH7/sms-spam-detector
 
 ---
 
-## ⚡ Positioning
+## 🚗 Used Car Price Prediction
 
-> I focus on building **AI systems that work in production** — not just models in notebooks.
+Regression-based Machine Learning system for vehicle price prediction.
+
+### Highlights
+
+- Data Cleaning
+- Feature Engineering
+- Outlier Handling
+- Regression Models
+- RMSE & R² Evaluation
+
+---
+
+## 📊 Fraud Detection EDA
+
+Comprehensive exploratory data analysis for financial fraud detection.
+
+### Highlights
+
+- Fraud Pattern Analysis
+- Feature Correlation
+- Statistical Analysis
+- Business Insights
+- Interactive Visualizations
+
+🔗 Repository
+
+https://github.com/ROCKYBH7/Fraud_Detection_EDA
+
+---
+
+# 🎯 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Biomedical Imaging
+- Large Language Models
+- AI Agents
+- Generative AI
+- MLOps
+- AI System Design
+
+---
+
+# 📚 Currently Exploring
+
+- Vision Transformers (ViTs)
+- Biomedical Image Analysis
+- Advanced PyTorch
+- MLOps & MLflow
+- Kubernetes for AI
+- Distributed AI Systems
+- AI Infrastructure
+- Production AI Architectures
+
+---
+
+# 🤝 Open to Collaborate
+
+I'm always interested in collaborating on projects related to:
+
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Generative AI
+- AI Agents
+- LLM Applications
+- Open Source AI
+- Research-driven AI Solutions
+
+---
+
+# 🏎️ Beyond Tech
+
+Outside of AI, I enjoy following Formula 1 and exploring how machine learning, telemetry, and predictive analytics can be applied to motorsport performance analysis.
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+balajirh.ds@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/balaji-r-h-a81107298
+
+🐙 **GitHub**
+
+https://github.com/ROCKYBH7
+
+---
+
+# ⚡ Philosophy
+
+> **"AI is more than training models—it's about engineering reliable, scalable systems that create real-world impact."**
+
+---
+⭐ If you like my work, consider giving a star to my repositories!
